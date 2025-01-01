@@ -4,7 +4,7 @@
 	- Tính công suất trung bình
 	![[Applied Digital Signal Processing.pdf#page=163]]
 ---
-2. Cho tín hiệu rời rạc, không liên tục:$$x[n] = \delta[n-1] -2 \delta[n] +\delta[n + 1]$$
+2. Cho tín hiệu rời rạc, không liên tục: $$x[n] = \delta[n-1] -2 \delta[n] +\delta[n + 1]$$
 	- Dùng DTFT vẽ phổ pha, phổ biên độ
 	- Nhận xét phổ năng lượng
 ---
