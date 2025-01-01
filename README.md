@@ -21,5 +21,5 @@ Tài liệu ghi chép về bài giảng môn *Xử lý Tín hiệu số* tại t
 
 ## Thi
 *Một trong nhiều mã đề thi*
-- [Giữa kỳ](./Mid-term%20test)
-- [Cuối kỳ](./End-term%20test)
+- [Giữa kỳ](Mid-term-test.md)
+- [Cuối kỳ](End-term-test.md)

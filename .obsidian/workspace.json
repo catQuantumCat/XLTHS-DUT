@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "End-term test.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "End-term test"
+              "title": "README"
             }
           }
         ]
@@ -164,10 +164,12 @@
   },
   "active": "cb8877c865ba1134",
   "lastOpenFiles": [
+    "Mid-term-test.md",
+    "End-term test.md",
+    "End-term-test.md",
     "README.md",
     "1. Resources/Applied Digital Signal Processing.pdf",
     "Untitled.md",
-    "End-term test.md",
     "End-term/Tổng hợp công thức.md",
     "End-term/Giải bài tập.md",
     "Mid-term test.md",
@@ -191,7 +193,6 @@
     "Notes/12-08-24/Digital Signal.md",
     "Notes",
     "Notes/12-08-24/Digitize process.md",
-    "Notes/19-08-24/Tần số lấy mẫu.md",
     "1. Resources/Bai Giang XLTHS.pdf",
     "1. Resources/Guide to DSP.pdf",
     "1. Resources/thinkdsp.pdf",

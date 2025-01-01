@@ -1,4 +1,4 @@
-1. Cho$$ x[n] = u[n+1] -u[n-1] + 3\delta[n - 1] -   3\delta[n - 2]$$ Biểu diễn dưới dạng chuỗi số, vẽ đồ thị, tìm năng lượng
+1. Cho $$x[n] = u[n+1] -u[n-1] + 3\delta[n - 1] -   3\delta[n - 2]$$ Biểu diễn dưới dạng chuỗi số, vẽ đồ thị, tìm năng lượng
 ___
 1. Định lý Nyquist:
 	1. Phát biểu định lý
