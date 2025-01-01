@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "End-term test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "End-term test"
             }
           }
         ]
@@ -164,8 +164,8 @@
   },
   "active": "cb8877c865ba1134",
   "lastOpenFiles": [
-    "1. Resources/Applied Digital Signal Processing.pdf",
     "README.md",
+    "1. Resources/Applied Digital Signal Processing.pdf",
     "Untitled.md",
     "End-term test.md",
     "End-term/Tổng hợp công thức.md",
