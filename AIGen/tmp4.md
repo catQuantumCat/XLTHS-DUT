@@ -1,0 +1,5 @@
+- First, let's multiply both numerator and denominator by $e^{j\omega}$ to simplify: $\frac{a^{-1}e^{j\omega}}{1-a^{1}e^{-j\omega}} \cdot \frac{e^{j\omega}}{e^{j\omega}} = \frac{a^{-1}(e^{j\omega})^2}{e^{j\omega}-a}$
+- Now, looking at the denominator pattern $(e^{j\omega}-a)$, we can factor out $e^{j\omega}$: $\frac{a^{-1}(e^{j\omega})^2}{e^{j\omega}(1-\frac{a}{e^{j\omega}})}$
+- The denominator format $(1-\frac{a}{e^{j\omega}})$ suggests we could use a geometric series expansion since $|\frac{a}{e^{j\omega}}| < 1$ when $|a| > 1$
+- Using the geometric series: $\frac{1}{1-x} = \sum_{n=0}^{\infty} x^n$ where $|x| < 1$ Let $x = \frac{a}{e^{j\omega}}$
+- This would give us: $\frac{a^{-1}(e^{j\omega})^2}{e^{j\omega}} \sum_{n=0}^{\infty} (\frac{a}{e^{j\omega}})^n$ $= a^{-1}e^{j\omega} \sum_{n=0}^{\infty} a^n e^{-jn\omega}$

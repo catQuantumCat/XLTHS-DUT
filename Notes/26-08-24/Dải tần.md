@@ -1,0 +1,1 @@
+*Tập hợp các tần số riêng lẻ của tín hiệu*
